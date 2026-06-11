@@ -1,10 +1,10 @@
 ```json
 {
   "Role": "",
-  "Context": "Learning to construct functions and objects in javascript, wanting some practice using iteration and recursion to write some basic office tasks to execute in a browser environment",
-  "Task": "Generate some exercises for me to practice coding, improve ability to formulate code in my IDE",
-  "Constraints": "Using basic vs code set up",
-  "Output": "5 web development practice exercises",
+  "Context": "",
+  "Task": "",
+  "Constraints": "",
+  "Output": "",
   "Tone": ""
 }
 ```

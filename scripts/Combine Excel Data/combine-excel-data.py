@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Input and output file paths
-input_file = r"C:\Users\wyoung5\OneDrive - McGill University\CRU\Tools\Consolidate Excel Data\input.xlsx"   # replace with your file
-output_file = r"C:\Users\wyoung5\OneDrive - McGill University\CRU\Tools\Consolidate Excel Data\output.xlsx"
+input_file = r"C:\Users\Path\To\File\input.xlsx"   # replace with your file
+output_file = r"C:\Users\Path\To\File\output.xlsx"
 
 # Define the expected columns (case-sensitive match in source sheets)
 required_columns = [

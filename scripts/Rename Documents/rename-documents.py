@@ -1,7 +1,7 @@
 import os
 
 # ===== USER CONFIGURATION =====
-folder_path = r"C:\Users\wyoung5\OneDrive - McGill University\CRU\Tools\Rename Documents"
+folder_path = r"C:\Users\\Path\To\Folder\Rename Documents"
 
 prefix_name = "Name of File"
 lang = "EN FR"

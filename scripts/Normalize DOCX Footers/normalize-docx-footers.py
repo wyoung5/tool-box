@@ -42,7 +42,7 @@ def normalize_footers(doc_path, output_path, reference_section_index=0):
 
 
 # ✅ Usage
-input_file = r"C:\Users\wyoung5\OneDrive - McGill University\CRU\Tools\Normalize DOCX Footers\ICF Main (EN V3 1Jun2026)_ARGX-117-2202_TC.docx"
+input_file = r"C:\Users\\Path\To\File\file-name.docx"
 output_file = "output_normalized.docx"
 
 normalize_footers(input_file, output_file)
